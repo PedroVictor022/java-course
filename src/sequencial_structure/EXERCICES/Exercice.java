@@ -1,4 +1,4 @@
-package sequencial_structure;
+package sequencial_structure.EXERCICES;
 
 import java.util.Scanner;
 
